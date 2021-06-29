@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733333 67.733335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tomautomate.svg"
+   inkscape:export-filename="C:\Users\Kenny\Desktop\MyDocuments\Projects\Chrome Extensions\Tomautomate\icons\tomautomate-yellow128.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4814">TomautoMate</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="25mm"
+     units="px"
+     inkscape:zoom="2"
+     inkscape:cx="65.75"
+     inkscape:cy="147.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4842" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="TomatoShadow"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <ellipse
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.327416"
+       id="path31"
+       cx="33.962368"
+       cy="34.078827"
+       rx="33.296535"
+       ry="29.265612" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TomatoRed"
+     style="display:none">
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.506667"
+       id="path33"
+       cx="33.299747"
+       cy="33.637077"
+       rx="31.860863"
+       ry="27.829941" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4842"
+     inkscape:label="TomatoGreen"
+     style="display:none">
+    <ellipse
+       style="fill:#00b900;fill-opacity:1;fill-rule:evenodd;stroke-width:0.506667"
+       id="ellipse4840"
+       cx="33.299747"
+       cy="33.637077"
+       rx="31.860863"
+       ry="27.829941" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4838"
+     inkscape:label="TomatoYellow"
+     style="display:inline">
+    <ellipse
+       style="fill:#a9a900;fill-opacity:1;fill-rule:evenodd;stroke-width:0.506667"
+       id="ellipse4836"
+       cx="33.299747"
+       cy="33.637077"
+       rx="31.860863"
+       ry="27.829941" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4834"
+     inkscape:label="TomatoBlack"
+     style="display:none">
+    <ellipse
+       style="fill:#6b6b6b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.506667"
+       id="ellipse4832"
+       cx="33.299747"
+       cy="33.637077"
+       rx="31.860863"
+       ry="27.829941" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="LeafShadow"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.393812px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.550164,16.857876 -0.414642,-7.5318553 5.666764,5.1063423 9.122111,-4.9786843 -6.081404,8.1701473 7.463544,7.276536 -9.260323,-2.68083 -4.561056,5.489317 -1.105712,-6.765902 -7.048904,-1.276584 z"
+       id="path467-0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Leaf"
+     style="display:inline">
+    <path
+       style="fill:#004200;fill-opacity:1;stroke:none;stroke-width:0.327416px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.907148,16.961209 -0.33131,-6.51574 4.527887,4.417451 7.288793,-4.307015 -4.859193,7.067921 5.963557,6.294867 -7.399229,-2.319162 -3.644398,4.748758 -0.883491,-5.853121 -5.632249,-1.104362 z"
+       id="path467"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Shine"
+     style="display:inline">
+    <path
+       style="opacity:0.65;fill:#f9f9f9;stroke:none;stroke-width:0.450256px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.8405321,31.030127 c 0,0 -1.8897253,-13.279237 10.8659149,-16.013196 C 31.462087,12.28297 7.8995835,25.562208 7.8405321,31.030127 Z"
+       id="path3232"
+       sodipodi:nodetypes="csc" />
+  </g>
+  <metadata
+     id="metadata4812">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>TomautoMate</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

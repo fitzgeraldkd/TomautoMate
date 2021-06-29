@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+</head>
+<body class="p-2 d-flex" style="min-width: 220px;">
+    <div class="container flex-grow-1">
+        <div class="row py-1">
+            <div class="col">
+                <h3 class="mb-0">TomautoMate</h3>
+            </div>
+            <div class="col">
+                <a href="/options.html" target="_blank">
+                <i class="bi bi-gear-fill"></i>
+                </a>
+            </div>
+        </div>
+        <div class="row pb-2">
+            <div class="col text-muted" id="currentStatus"></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" id="taskWindow" value="task" />
+                    <label class="form-check-label" for="taskWindow">Task Window</label>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" id="breakWindow" value="break" />
+                    <label class="form-check-label" for="breakWindow">Break Window</label>
+                </div>
+            </div>
+        </div>
+        <div class="row py-1">
+            <div class="col">
+                <button type="button" class="btn btn-outline-secondary" id="resetWindows">Reset All Windows</button>
+            </div>
+        </div>
+        <div class="row py-1">
+            <div class="col">
+                <button type="button" class="btn btn-outline-success" id="start">START</button>
+            </div>
+            <div class="col">
+                <button type="button" class="btn btn-outline-danger" id="stop">STOP</button>
+            </div>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
